@@ -124,7 +124,7 @@ p.salo,p#bread {
     color: red;
 }
 /* 10. */
-.lesson-three-task-ten p:first-child {
+.lesson-three-task-ten::first-line {
     background: yellow;
 }
 /* 11. */
